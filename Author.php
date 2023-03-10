@@ -20,3 +20,4 @@ class Author extends Person
         return self::$centuryPopular;          
     }
 }
+echo "test";
